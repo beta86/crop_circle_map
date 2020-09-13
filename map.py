@@ -21,6 +21,7 @@ fg = folium.FeatureGroup(name="My Map")
 for ln, lt, cr in zip(lon, lat, crop):
     fg.add_child(folium.Marker(location=[ln, lt], popup=cr, icon=folium.Icon(color=crop_colors(cr))))
 # git testing
+# test 2
 map.add_child(fg)
 
 map.save("malmesbury.html")

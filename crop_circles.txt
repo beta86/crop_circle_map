@@ -1,0 +1,94 @@
+Date,County,Town,Crop,Lon,Lat
+14-Apr-09,Wiltshire,Avebury,Oilseed rape,51.426769,-1.853218
+19-Apr-09,Wiltshire,West Kennett,Oilseed rape,51.425437,-1.853256
+21-Apr-09,Wiltshire,West Kennett,Oilseed rape,51.425437,-1.853256
+23-Apr-09,Wiltshire,Avebury,Oilseed rape,51.426769,-1.853218
+24-Apr-09,Wiltshire,Morgan's Hill,Oilseed rape,51.40333,-1.95974
+25-Apr-09,Wiltshire,Liddington Castle,Oilseed rape,51.516007,-1.700306
+29-Apr-09,Wiltshire,Roundway Hill,Oilseed rape,51.367748,-1.978504
+03-May-09,Wiltshire,East Kennett,Oilseed rape,51.406727,-1.831316
+04-May-09,Wiltshire,Clatford,Oilseed rape,51.404984,-1.770674
+06-May-09,Wiltshire,All Cannings,Oilseed rape,51.355853,-1.89488
+09-May-09,Wiltshire,Swindon,Oilseed rape,51.558418,-1.781985
+10-May-09,Wiltshire,Roundway Devizes,Oilseed rape,51.36806,-1.980812
+24-May-09,Wiltshire,Barbury Castle,Barley,51.485458,-1.786808
+24-May-09,Wiltshire,Bishops Cannings,,51.378264,-1.9485
+24-May-09,Wiltshire,Windmill Hill,,51.441528,-1.876216
+29-May-09,Oxfordshire,Wayland's Smithy,Barley,51.566599,-1.595996
+01-Jun-09,Wiltshire,Beckhampton,Barley,51.426769,-1.853218
+02-Jun-09,Wiltshire,Milk Hill,Barley,51.37716,-1.850559
+02-Jun-09,Wiltshire,Milk Hill,Barley,51.37716,-1.850559
+03-Jun-09,Wiltshire,Yatesbury,Barley,51.443646,-1.910184
+05-Jun-09,Wiltshire,Chiseldon,Barley,51.514499,-1.73567
+08-Jun-09,Wiltshire,Bishops Cannings,Barley,51.378264,-1.9485
+12-Jun-09,Oxfordshire,Wayland's Smithy,Barley,51.566599,-1.595996
+12-Jun-09,Wiltshire,Yatesbury,Barley,51.443646,-1.910184
+13-Jun-09,Wiltshire,Tawesmead Copse,Wheat,51.359303,-1.84243
+13-Jun-09,Wiltshire,Milk Hill,Barley,51.37716,-1.850559
+14-Jun-09,Wiltshire,Barbury Castle,Wheat,51.485458,-1.786808
+15-Jun-09,Wiltshire,West Kennett,Wheat,51.425437,-1.853256
+17-Jun-09,Wiltshire,West Kennett,Wheat,51.425437,-1.853256
+19-Jun-09,Wiltshire,West Kennett,Wheat,51.425437,-1.853256
+20-Jun-09,Wiltshire,Waden Hill nr Avebury,Wheat,51.426769,-1.853218
+21-Jun-09,Wiltshire,Milk Hill,Wheat,51.37716,-1.850559
+21-Jun-09,Wiltshire,West Kennett,Wheat,51.425437,-1.853256
+22-Jun-09,Wiltshire,Milk Hill,Wheat,51.37716,-1.850559
+22-Jun-09,Essex,Rochford,Wheat,51.583814,0.707085
+23-Jun-09,Wiltshire,Milk Hill,Wheat,51.37716,-1.850559
+24-Jun-09,Wiltshire,Winterbourne Bassett,Wheat,51.472769,-1.851955
+25-Jun-09,Wiltshire,Martinsell Hill,Wheat,51.469394,-1.811907
+27-Jun-09,Wiltshire,Alton Priors,Wheat,51.359303,-1.84243
+27-Jun-09,Wiltshire,Honeystreet,Wheat,51.369316,-1.83712
+27-Jun-09,Wiltshire,Milk Hill,Wheat,51.37716,-1.850559
+28-Jun-09,Wiltshire,Beckhampton,Wheat,51.426769,-1.853218
+28-Jun-09,Wiltshire,Beckhampton,Linseed,51.426769,-1.853218
+28-Jun-09,Wiltshire,Pewsey White Horse,Wheat,51.323804,-1.759454
+30-Jun-09,Wiltshire,Milk Hill,Wheat,51.37716,-1.850559
+01-Jul-09,Wiltshire,Waden Hill nr Avebury,Wheat,51.426769,-1.853218
+02-Jul-09,Wiltshire,Milk Hill,Wheat,51.37716,-1.850559
+04-Jul-09,Wiltshire,Beckhampton,Wheat,51.426769,-1.853218
+04-Jul-09,Wiltshire,Pewsey,Wheat,51.337689,-1.767535
+05-Jul-09,Wiltshire,Devizes,Wheat,51.351982,-1.994756
+05-Jul-09,Wiltshire,Silbury Hill,Wheat,51.41543,-1.857584
+05-Jul-09,Wiltshire,Stanton St. Bernard,Wheat,51.361071,-1.863895
+06-Jul-09,Wiltshire,Honeystreet,Wheat,51.369316,-1.83712
+07-Jul-09,Wiltshire,Clatford,Wheat,51.404984,-1.770674
+08-Jul-09,Wiltshire,Yatesbury,Wheat,51.443646,-1.910184
+09-Jul-09,Warwickshire,Chesterton,Wheat,52.223821,-1.4879
+09-Jul-09,Wiltshire,Stanton St. Bernard,Wheat,51.361071,-1.863895
+09-Jul-09,Warwickshire,Chesterton,Wheat,52.223821,-1.4879
+10-Jul-09,Wiltshire,All Cannings,Wheat,51.355853,-1.89488
+11-Jul-09,Warwickshire,Radford,Wheat,52.431106,-1.51067
+13-Jul-09,Wiltshire,All Cannings,Wheat,51.355853,-1.89488
+13-Jul-09,Hampshire,Chilcomb Down,Wheat,51.05672,-1.25749
+14-Jul-09,Wiltshire,Alton Barnes,Wheat,51.358248,-1.848517
+14-Jul-09,Wiltshire,Grey Wethers,Wheat,51.431109,-1.804933
+14-Jul-09,Hampshire,Hinton Admiral,Wheat,50.757136,-1.712485
+19-Jul-09,Wiltshire,Martinsell Hill,Wheat,51.469394,-1.811907
+19-Jul-09,Wiltshire,Liddington Castle,Wheat,51.516007,-1.700306
+22-Jul-09,Wiltshire,Woodborough Hill,Wheat,51.337885,-1.847012
+24-Jul-09,Wiltshire,Ogbourne Down,Wheat,51.46898,-1.755065
+25-Jul-09,Wiltshire,Alton Priors,Wheat,51.359303,-1.84243
+25-Jul-09,Wiltshire,Tawesmead Copse,Wheat,51.359303,-1.84243
+28-Jul-09,Wiltshire,Winterbourne Bassett,Wheat,51.472769,-1.851955
+29-Jul-09,Wiltshire,Ogbourne St. Andrews,Wheat,51.454574,-1.757801
+31-Jul-09,Wiltshire,Hackpen Hill,Wheat,51.472188,-1.816735
+31-Jul-09,Wiltshire,Winterbourne Bassett,Wheat,51.472769,-1.851955
+31-Jul-09,Wiltshire,Waden Hill nr Avebury,Wheat,51.426769,-1.853218
+01-Aug-09,Wiltshire,Morgan's Hill,Wheat,51.40333,-1.95974
+02-Aug-09,Wiltshire,Alton Priors,Wheat,51.359303,-1.84243
+03-Aug-09,Wiltshire,Silbury Hill,Wheat,51.41543,-1.857584
+03-Aug-09,Oxfordshire,Rollright Stones,Wheat,51.97489,-1.569024
+03-Aug-09,Oxfordshire,Rollright Stones,Wheat,51.97489,-1.569024
+04-Aug-09,Staffordshire,Wheaton Aston,Wheat,52.711359,-2.220683
+06-Aug-09,Wiltshire,Windmill Hill,Wheat,51.441528,-1.876216
+06-Aug-09,Wiltshire,Yatesbury,Wheat,51.443646,-1.910184
+08-Aug-09,Wiltshire,West Overton,Wheat,51.411166,-1.813663
+08-Aug-09,Wiltshire,Alton Priors,Wheat,51.359303,-1.84243
+08-Aug-09,Wiltshire,Alton Priors,Wheat,51.359303,-1.84243
+09-Aug-09,Hampshire,Bishop Sutton,Wheat,51.083773,-1.135929
+10-Aug-09,Wiltshire,Woodborough Hill,Wheat,51.337885,-1.847012
+10-Aug-09,Oxfordshire,Wayland's Smithy,Wheat,51.566599,-1.595996
+15-Aug-09,Dorset,Weymouth,Wheat,50.608794,-2.454146
+16-Aug-09,Wiltshire,Tidcombe,Wheat,51.323789,-1.585382
+29-Aug-09,Oxfordshire,Wayland's Smithy,Maize,51.566599,-1.595996
